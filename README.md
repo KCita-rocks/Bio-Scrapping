@@ -24,7 +24,9 @@ Authors:
 Marcelo Araya-Salas
 
 Investigator
+
 Neuroscience Research Center
+
 Universidad de Costa Rica
 
 Reach me at: MARCELO.ARAYA@ucr.ac.cr
@@ -33,7 +35,9 @@ Keyla Smith Arias
 
 Student
 School of Computer Science and Informatics
+
 Faculty of Engineering
+
 Universidad de Costa Rica
 
 Reach me at: KEYLA.SMITH@ucr.ac.cr
