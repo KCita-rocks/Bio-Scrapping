@@ -44,4 +44,4 @@ Reach me at: KEYLA.SMITH@ucr.ac.cr
 
 Please cite Bio-Scrapping as follows:
 
-Araya-Salas, M. and Smith Arias, K. (2021), Bio-Scrapping: an R package 
+Araya-Salas, M. and Smith-Arias, K. (2021), Bio-Scrapping: an R package 
